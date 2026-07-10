@@ -1,0 +1,81 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1783499590568,3591,Login ,200,"Number of samples in transaction : 11, number of failing samples : 0",Baseline_UAT_Plan C 1-1,,true,,375815,46855,2,2,null,0,416,535
+1783499593548,2392,Login ,200,"Number of samples in transaction : 11, number of failing samples : 0",Baseline_UAT_Plan C 1-2,,true,,375884,46952,2,2,null,0,113,119
+1783499596536,3693,Login ,200,"Number of samples in transaction : 11, number of failing samples : 0",Baseline_UAT_Plan C 1-3,,true,,375895,46867,4,4,null,0,123,111
+1783499596054,5980,Redirect to applications page,200,"Number of samples in transaction : 7, number of failing samples : 0",Baseline_UAT_Plan C 1-2,,true,,270299,43294,4,4,null,0,33,21
+1783499599534,3686,Login ,200,"Number of samples in transaction : 11, number of failing samples : 0",Baseline_UAT_Plan C 1-4,,true,,375958,46941,5,5,null,0,88,91
+1783499602067,1639,Event log page,200,"Number of samples in transaction : 4, number of failing samples : 0",Baseline_UAT_Plan C 1-2,,true,,11187,36519,5,5,null,0,18,46
+1783499594577,10483,Redirect to applications page,200,"Number of samples in transaction : 7, number of failing samples : 0",Baseline_UAT_Plan C 1-1,,true,,270376,43266,5,5,null,0,34,122
+1783499602531,2566,Login ,200,"Number of samples in transaction : 11, number of failing samples : 0",Baseline_UAT_Plan C 1-5,,true,,376068,46953,5,5,null,0,83,95
+1783499600352,5811,Redirect to applications page,200,"Number of samples in transaction : 7, number of failing samples : 0",Baseline_UAT_Plan C 1-3,,true,,270439,43314,6,6,null,0,20,18
+1783499605094,1452,Event log page,200,"Number of samples in transaction : 4, number of failing samples : 0",Baseline_UAT_Plan C 1-1,,true,,11198,36457,6,6,null,0,5,8
+1783499606183,1762,Event log page,200,"Number of samples in transaction : 4, number of failing samples : 0",Baseline_UAT_Plan C 1-3,,true,,11186,36519,6,6,null,0,5,9
+1783499605533,2781,Login ,200,"Number of samples in transaction : 11, number of failing samples : 0",Baseline_UAT_Plan C 1-6,,true,,375871,46896,6,6,null,0,35,93
+1783499608528,3578,Login ,200,"Number of samples in transaction : 11, number of failing samples : 0",Baseline_UAT_Plan C 1-7,,true,,376000,46967,8,8,null,0,30,133
+1783499603309,11654,Redirect to applications page,200,"Number of samples in transaction : 7, number of failing samples : 0",Baseline_UAT_Plan C 1-4,,true,,270389,43276,9,9,null,0,23,19
+1783499611525,3376,Login ,200,"Number of samples in transaction : 11, number of failing samples : 0",Baseline_UAT_Plan C 1-8,,true,,375963,46905,9,9,null,0,118,98
+1783499614987,2100,Event log page,200,"Number of samples in transaction : 4, number of failing samples : 0",Baseline_UAT_Plan C 1-4,,true,,11179,36461,9,9,null,0,3,9
+1783499614523,3111,Login ,200,"Number of samples in transaction : 11, number of failing samples : 0",Baseline_UAT_Plan C 1-9,,true,,375942,46908,10,10,null,0,37,98
+1783499612139,5737,Redirect to applications page,200,"Number of samples in transaction : 7, number of failing samples : 0",Baseline_UAT_Plan C 1-7,,true,,270505,43309,10,10,null,0,15,18
+1783499605180,13089,Redirect to applications page,200,"Number of samples in transaction : 7, number of failing samples : 0",Baseline_UAT_Plan C 1-5,,true,,270446,43297,10,10,null,0,22,18
+1783499617891,2055,Event log page,200,"Number of samples in transaction : 4, number of failing samples : 0",Baseline_UAT_Plan C 1-7,,true,,11194,36515,10,10,null,0,6,10
+1783499618291,1922,Event log page,200,"Number of samples in transaction : 4, number of failing samples : 0",Baseline_UAT_Plan C 1-5,,true,,11197,36523,10,10,null,0,5,9
+1783499617533,2655,Login ,200,"Number of samples in transaction : 11, number of failing samples : 0",Baseline_UAT_Plan C 1-10,,true,,375927,47004,10,10,null,0,82,108
+1783499608350,12607,Redirect to applications page,200,"Number of samples in transaction : 7, number of failing samples : 0",Baseline_UAT_Plan C 1-6,,true,,270419,43313,11,11,null,0,23,22
+1783499615020,6417,Redirect to applications page,200,"Number of samples in transaction : 7, number of failing samples : 0",Baseline_UAT_Plan C 1-8,,true,,270248,43280,11,11,null,0,21,17
+1783499620981,1006,Event log page,200,"Number of samples in transaction : 4, number of failing samples : 0",Baseline_UAT_Plan C 1-6,,true,,11195,36521,11,11,null,0,4,14
+1783499621458,1455,Event log page,200,"Number of samples in transaction : 4, number of failing samples : 0",Baseline_UAT_Plan C 1-8,,true,,11179,36471,11,11,null,0,4,8
+1783499620531,3342,Login ,200,"Number of samples in transaction : 11, number of failing samples : 0",Baseline_UAT_Plan C 1-11,,true,,376041,46990,12,12,null,0,111,91
+1783499617672,6514,Redirect to applications page,200,"Number of samples in transaction : 7, number of failing samples : 0",Baseline_UAT_Plan C 1-9,,true,,270386,43299,12,12,null,0,16,19
+1783499624203,1153,Event log page,200,"Number of samples in transaction : 4, number of failing samples : 0",Baseline_UAT_Plan C 1-9,,true,,11202,36521,12,12,null,0,3,10
+1783499623526,3780,Login ,200,"Number of samples in transaction : 11, number of failing samples : 0",Baseline_UAT_Plan C 1-12,,true,,376065,47015,13,13,null,0,68,329
+1783499623984,4994,Redirect to applications page,200,"Number of samples in transaction : 7, number of failing samples : 0",Baseline_UAT_Plan C 1-11,,true,,270376,43334,13,13,null,0,22,16
+1783499620271,8753,Redirect to applications page,200,"Number of samples in transaction : 7, number of failing samples : 0",Baseline_UAT_Plan C 1-10,,true,,270336,43302,13,13,null,0,20,16
+1783499629000,1196,Event log page,200,"Number of samples in transaction : 4, number of failing samples : 0",Baseline_UAT_Plan C 1-11,,true,,11194,36515,14,14,null,0,4,8
+1783499626537,3645,Login ,200,"Number of samples in transaction : 11, number of failing samples : 0",Baseline_UAT_Plan C 1-13,,true,,375877,46876,14,14,null,0,64,314
+1783499629045,1383,Event log page,200,"Number of samples in transaction : 4, number of failing samples : 0",Baseline_UAT_Plan C 1-10,,true,,11204,36517,14,14,null,0,5,25
+1783499629531,4331,Login ,200,"Number of samples in transaction : 11, number of failing samples : 0",Baseline_UAT_Plan C 1-14,,true,,376018,46971,15,15,null,0,82,330
+1783499632528,3542,Login ,200,"Number of samples in transaction : 11, number of failing samples : 0",Baseline_UAT_Plan C 1-15,,true,,375972,46953,16,16,null,0,33,285
+1783499635530,3005,Login ,200,"Number of samples in transaction : 11, number of failing samples : 0",Baseline_UAT_Plan C 1-16,,true,,376011,46962,17,17,null,0,76,329
+1783499627374,11456,Redirect to applications page,200,"Number of samples in transaction : 7, number of failing samples : 0",Baseline_UAT_Plan C 1-12,,true,,270546,43280,17,17,null,0,17,78
+1783499603724,6048,PSOSInq- Event log page,200,"Number of samples in transaction : 6, number of failing samples : 0",Baseline_UAT_Plan C 1-2,,true,,38961,48563,17,17,null,0,30008,0
+1783499633944,6394,Redirect to applications page,200,"Number of samples in transaction : 7, number of failing samples : 0",Baseline_UAT_Plan C 1-14,,true,,270423,43302,16,16,null,0,15,17
+1783499638848,1852,Event log page,200,"Number of samples in transaction : 4, number of failing samples : 0",Baseline_UAT_Plan C 1-12,,true,,11185,36459,16,16,null,0,4,99
+1783499630246,10719,Redirect to applications page,200,"Number of samples in transaction : 7, number of failing samples : 0",Baseline_UAT_Plan C 1-13,,true,,270490,43302,16,16,null,0,18,15
+1783499636104,5565,Redirect to applications page,200,"Number of samples in transaction : 7, number of failing samples : 0",Baseline_UAT_Plan C 1-15,,true,,270346,43304,17,17,null,0,16,20
+1783499640355,1344,Event log page,200,"Number of samples in transaction : 4, number of failing samples : 0",Baseline_UAT_Plan C 1-14,,true,,11180,36525,17,17,null,0,5,8
+1783499638537,3621,Login ,200,"Number of samples in transaction : 11, number of failing samples : 0",Baseline_UAT_Plan C 1-17,,true,,375922,46914,17,17,null,0,91,331
+1783499640984,1529,Event log page,200,"Number of samples in transaction : 4, number of failing samples : 0",Baseline_UAT_Plan C 1-13,,true,,11178,36531,17,17,null,0,4,14
+1783499641685,1326,Event log page,200,"Number of samples in transaction : 4, number of failing samples : 0",Baseline_UAT_Plan C 1-15,,true,,11181,36527,17,17,null,0,5,8
+1783499606552,6480,PSOSInq- Event log page,200,"Number of samples in transaction : 6, number of failing samples : 0",Baseline_UAT_Plan C 1-1,,true,,38967,48493,17,17,null,0,30008,0
+1783499607951,5498,PSOSInq- Event log page,200,"Number of samples in transaction : 6, number of failing samples : 0",Baseline_UAT_Plan C 1-3,,true,,38967,48559,16,16,null,0,30009,0
+1783499641527,2880,Login ,200,"Number of samples in transaction : 11, number of failing samples : 0",Baseline_UAT_Plan C 1-18,,true,,375943,46979,15,15,null,0,19,329
+1783499638612,10001,Redirect to applications page,200,"Number of samples in transaction : 7, number of failing samples : 0",Baseline_UAT_Plan C 1-16,,true,,270333,43349,17,17,null,0,15,19
+1783499644529,4196,Login ,200,"Number of samples in transaction : 11, number of failing samples : 0",Baseline_UAT_Plan C 1-19,,true,,376000,46959,17,17,null,0,103,313
+1783499644426,5576,Redirect to applications page,200,"Number of samples in transaction : 7, number of failing samples : 0",Baseline_UAT_Plan C 1-18,,true,,270303,43308,17,17,null,0,29,27
+1783499648629,1402,Event log page,200,"Number of samples in transaction : 4, number of failing samples : 0",Baseline_UAT_Plan C 1-16,,true,,11186,36581,17,17,null,0,4,8
+1783499650031,948,Event log page,200,"Number of samples in transaction : 4, number of failing samples : 0",Baseline_UAT_Plan C 1-18,,true,,11182,36533,17,17,null,0,7,13
+1783499647527,3368,Login ,200,"Number of samples in transaction : 11, number of failing samples : 0",Baseline_UAT_Plan C 1-20,,true,,375950,46996,17,17,null,0,93,324
+1783499642249,10431,Redirect to applications page,200,"Number of samples in transaction : 7, number of failing samples : 0",Baseline_UAT_Plan C 1-17,,true,,270325,43308,17,17,null,0,20,13
+1783499617091,5786,PSOSInq- Event log page,200,"Number of samples in transaction : 6, number of failing samples : 0",Baseline_UAT_Plan C 1-4,,true,,38955,48511,17,17,null,0,30007,0
+1783499652700,996,Event log page,200,"Number of samples in transaction : 4, number of failing samples : 0",Baseline_UAT_Plan C 1-17,,true,,11193,36519,16,16,null,0,4,12
+1783499620219,5351,PSOSInq- Event log page,200,"Number of samples in transaction : 6, number of failing samples : 0",Baseline_UAT_Plan C 1-5,,true,,39080,48555,16,16,null,0,30007,0
+1783499619952,5698,PSOSInq- Event log page,200,"Number of samples in transaction : 6, number of failing samples : 0",Baseline_UAT_Plan C 1-7,,true,,39088,48559,15,15,null,0,30006,0
+1783499621991,4281,PSOSInq- Event log page,200,"Number of samples in transaction : 6, number of failing samples : 0",Baseline_UAT_Plan C 1-6,,true,,39096,48565,14,14,null,0,30007,0
+1783499622918,4656,PSOSInq- Event log page,200,"Number of samples in transaction : 6, number of failing samples : 0",Baseline_UAT_Plan C 1-8,,true,,39077,48501,13,13,null,0,30004,0
+1783499648829,9085,Redirect to applications page,200,"Number of samples in transaction : 7, number of failing samples : 0",Baseline_UAT_Plan C 1-19,,true,,270410,43294,12,12,null,0,16,15
+1783499650989,8552,Redirect to applications page,200,"Number of samples in transaction : 7, number of failing samples : 0",Baseline_UAT_Plan C 1-20,,true,,270092,43335,12,12,null,0,18,17
+1783499657930,1727,Event log page,200,"Number of samples in transaction : 4, number of failing samples : 0",Baseline_UAT_Plan C 1-19,,true,,11203,36539,12,12,null,0,5,8
+1783499625360,5471,PSOSInq- Event log page,200,"Number of samples in transaction : 6, number of failing samples : 0",Baseline_UAT_Plan C 1-9,,true,,39078,48559,12,12,null,0,30006,0
+1783499659560,1922,Event log page,200,"Number of samples in transaction : 4, number of failing samples : 0",Baseline_UAT_Plan C 1-20,,true,,11181,36515,11,11,null,0,3,11
+1783499630433,5186,PSOSInq- Event log page,200,"Number of samples in transaction : 6, number of failing samples : 0",Baseline_UAT_Plan C 1-10,,true,,38944,48571,11,11,null,0,30010,0
+1783499630201,5426,PSOSInq- Event log page,200,"Number of samples in transaction : 6, number of failing samples : 0",Baseline_UAT_Plan C 1-11,,true,,38947,48557,10,10,null,0,30006,0
+1783499640705,5720,PSOSInq- Event log page,200,"Number of samples in transaction : 6, number of failing samples : 0",Baseline_UAT_Plan C 1-12,,true,,38956,48503,9,9,null,0,30008,0
+1783499642518,5730,PSOSInq- Event log page,200,"Number of samples in transaction : 6, number of failing samples : 0",Baseline_UAT_Plan C 1-13,,true,,39101,48553,8,8,null,0,30006,0
+1783499641704,6569,PSOSInq- Event log page,200,"Number of samples in transaction : 6, number of failing samples : 0",Baseline_UAT_Plan C 1-14,,true,,38953,48563,7,7,null,0,30008,0
+1783499643016,6650,PSOSInq- Event log page,200,"Number of samples in transaction : 6, number of failing samples : 0",Baseline_UAT_Plan C 1-15,,true,,39094,48559,6,6,null,0,30007,0
+1783499650035,6553,PSOSInq- Event log page,200,"Number of samples in transaction : 6, number of failing samples : 0",Baseline_UAT_Plan C 1-16,,true,,39086,48631,5,5,null,0,30008,0
+1783499650986,5954,PSOSInq- Event log page,200,"Number of samples in transaction : 6, number of failing samples : 0",Baseline_UAT_Plan C 1-18,,true,,39080,48563,4,4,null,0,30007,0
+1783499653700,4604,PSOSInq- Event log page,200,"Number of samples in transaction : 6, number of failing samples : 0",Baseline_UAT_Plan C 1-17,,true,,38951,48555,3,3,null,0,30007,14
+1783499659663,4486,PSOSInq- Event log page,200,"Number of samples in transaction : 6, number of failing samples : 0",Baseline_UAT_Plan C 1-19,,true,,38943,48557,2,2,null,0,30006,0
+1783499661486,6206,PSOSInq- Event log page,200,"Number of samples in transaction : 6, number of failing samples : 0",Baseline_UAT_Plan C 1-20,,true,,38957,48553,1,1,null,0,30006,0
